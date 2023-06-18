@@ -1,11 +1,11 @@
 Hello 👋, I'm Rifa'i Rejal Maynando
 ======================================
 
-I am a Web Developer and Penetration Tester with expertise in building web applications using various technologies and frameworks. I have extensive experience in Laravel, CodeIgniter, PHP, JavaScript, Vue.js, HTML, CSS, and Python. Additionally, I possess in-depth knowledge of web application security and penetration testing.
+I am a Web Developer and Penetration Tester with expertise in building web applications using various technologies and frameworks. I have extensive experience in Laravel, CodeIgniter, PHP, JavaScript, Vue.js, HTML, CSS, Java,and Python. Additionally, I possess in-depth knowledge of web application security and penetration testing.
 
 Skills
 ------------------------------------
-- Web Development: I have expertise in various programming languages and frameworks, including Laravel, CodeIgniter, PHP, JavaScript, Vue.js, HTML, CSS, and Python. I can design and develop robust web applications with a focus on security and performance.
+- Web Development: I have expertise in various programming languages and frameworks, including Laravel, CodeIgniter, PHP, JavaScript, Vue.js, HTML, CSS, Java, and Python. I can design and develop robust web applications with a focus on security and performance.
 
 - Penetration Testing: I possess extensive experience in conducting penetration testing to identify vulnerabilities in web applications. I am proficient in utilizing tools and techniques to uncover security flaws and provide recommendations for remediation.
 
