@@ -27,5 +27,5 @@ Contact
 
 I am always interested in collaborating with new people and sharing knowledge and experiences. If you are interested in working together or have any questions, feel free to contact me via:
 
-Email: nandorejal@gmail.com
-LinkedIn: [@rnando](http://www.linkedin.com/in/rnando/)
+- Email: nandorejal@gmail.com
+- LinkedIn: [@rnando](http://www.linkedin.com/in/rnando/)
