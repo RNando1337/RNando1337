@@ -23,10 +23,3 @@ Achievements
 - Kaskus Security Acknowledgment: After discovering a vulnerability, I was inducted into the Kaskus Hall of Fame. [See the acknowledment](https://bantuan.kaskus.co.id/hc/id/articles/360026355992-Hall-of-Fame)
 - Another Hall of Fame via [BugCrowd platform](https://bugcrowd.com/RNando)
   
-Contact
-------------------------------------
-
-I am always interested in collaborating with new people and sharing knowledge and experiences. If you are interested in working together or have any questions, feel free to contact me via:
-
-- Email: nandorejal@gmail.com
-- LinkedIn: [@rnando](http://www.linkedin.com/in/rnando/)
