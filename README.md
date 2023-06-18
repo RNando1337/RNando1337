@@ -8,7 +8,7 @@ I am a Web Developer and Penetration Tester with expertise in building web appli
 
 Skills
 ------------------------------------
-- Web Development: I have expertise in various programming languages and frameworks, including Laravel, PHP, JavaScript, Vue.js, HTML, CSS, and Python. I can design and develop robust web applications with a focus on security and performance.
+- Web Development: I have expertise in various programming languages and frameworks, including Laravel, CodeIgniter, PHP, JavaScript, Vue.js, HTML, CSS, and Python. I can design and develop robust web applications with a focus on security and performance.
 
 - Penetration Testing: I possess extensive experience in conducting penetration testing to identify vulnerabilities in web applications. I am proficient in utilizing tools and techniques to uncover security flaws and provide recommendations for remediation.
 
