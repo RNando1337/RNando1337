@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=RNando1337&label=Viewers&style=for-the-badge&color=dc143c)
+
 Hello 👋, I'm Rifa'i Rejal Maynando 
 ======================================
 
@@ -19,6 +21,3 @@ Achievements
 - Google Hall of Fame: After discovering a vulnerability, I was recognized in the Google VRP (Vulnerability Reward Program) [Hall of Fame](https://bughunters.google.com/profile/595f4fd6-2fd6-44d9-ac07-95da7d171719).
 - Kaskus Security Acknowledgment: I was awarded Kaskus [Hall of Fame](https://bantuan.kaskus.co.id/hc/id/articles/360026355992-Hall-of-Fame) in 2022 for discovering a vulnerability.
 - Another Hall of Fame via [BugCrowd platform](https://bugcrowd.com/RNando)
-
-![](https://komarev.com/ghpvc/?username=RNando1337&label=Viewers&style=for-the-badge&color=dc143c)
-
