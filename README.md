@@ -9,6 +9,7 @@ Achievements
 ------------------------------------
 
 - Google Hall of Fame: After discovering a vulnerability, I was recognized in the Google VRP (Vulnerability Reward Program) [Hall of Fame](https://bughunters.google.com/profile/595f4fd6-2fd6-44d9-ac07-95da7d171719).
+- Apple awarded me the [Hall of Fame](https://support.apple.com/kb/HT201536) in September 2023 for discovering security issues on their web servers.
 - Kaskus Security Acknowledgment: I was awarded Kaskus [Hall of Fame](https://bantuan.kaskus.co.id/hc/id/articles/360026355992-Hall-of-Fame) in 2022 for discovering a vulnerability.
 - Vidio Bug Bounty Program: After discovering vulnerability, I was awarded [Hall of Fame](https://www.vidio.com/pages/vidio-bug-bounty-program)
 - Another Hall of Fame via [BugCrowd platform](https://bugcrowd.com/RNando)
