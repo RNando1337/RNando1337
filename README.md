@@ -1,12 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=RNando1337&label=Viewers&style=for-the-badge&color=dc143c)
 
-Hello 👋, I'm Rifa'i Rejal Maynando 
-======================================
+# Hello 👋, I'm Rifa'i Rejal Maynando 
 
 I am a Web Developer and Penetration Tester with expertise in building web applications using various technologies and frameworks. I have extensive experience in Laravel, CodeIgniter, PHP, JavaScript, Vue.js, HTML, CSS, Java,and Python. Additionally, I possess in-depth knowledge of web application security and penetration testing.
 
-Achievements
-------------------------------------
+# Achievements
 
 - Google Hall of Fame: After discovering a vulnerability, I was recognized in the Google VRP (Vulnerability Reward Program) [Hall of Fame](https://bughunters.google.com/profile/595f4fd6-2fd6-44d9-ac07-95da7d171719).
 - Apple awarded me the [Hall of Fame](https://support.apple.com/kb/HT201536) in September 2023 for discovering security issues on their web servers.
