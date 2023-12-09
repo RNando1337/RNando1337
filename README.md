@@ -12,6 +12,6 @@ I am a Web Developer and Penetration Tester with expertise in building web appli
 - Vidio Bug Bounty Program: After discovering vulnerability, I was awarded [Hall of Fame](https://www.vidio.com/pages/vidio-bug-bounty-program)
 - Another Hall of Fame via [BugCrowd platform](https://bugcrowd.com/RNando)
 
-# Socials
+# Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rnando/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rnando)
