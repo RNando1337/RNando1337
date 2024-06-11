@@ -12,6 +12,12 @@ I am a Web Developer and Penetration Tester with expertise in building web appli
 - Vidio Bug Bounty Program: After discovering vulnerability, I was awarded [Hall of Fame](https://www.vidio.com/pages/vidio-bug-bounty-program)
 - Another Hall of Fame via [BugCrowd platform](https://bugcrowd.com/RNando)
 
-# Connect with Me
+# My Github Stats
+<p align="center"> 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RNando1337&show_icons=true&theme=tokyonight&count_private=true" width="445"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RNando1337&layout=compact&show_icons=true&theme=tokyonight&count_private=true" width="390"/>
+</p>
+
+# Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rnando/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rnando)
