@@ -11,7 +11,7 @@ I am a Web Developer and Penetration Tester with expertise in building web appli
 - Kaskus Security Acknowledgment: I was awarded Kaskus [Hall of Fame](https://bantuan.kaskus.co.id/hc/id/articles/360026355992-Hall-of-Fame) in 2022 for discovering a vulnerability.
 - Vidio Bug Bounty Program: After discovering vulnerability, I was awarded [Hall of Fame](https://www.vidio.com/pages/vidio-bug-bounty-program)
 - Another Hall of Fame via [BugCrowd platform](https://bugcrowd.com/RNando)
-- CVE-2024-40797
+- CVE-2024-40797, CVE-2025-8364
 
 # My Github Stats
 <p align="center"> 
